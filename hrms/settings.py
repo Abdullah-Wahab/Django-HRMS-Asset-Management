@@ -136,8 +136,8 @@ MESSAGE_TAGS = {
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST = 'smtp-relay.sendinblue.com'
 EMAIL_PORT = 587
-EMAIL_HOST_USER = '3mutindafelix@gmail.com'  #'3mutindafelix@gmail.com'
-EMAIL_HOST_PASSWORD = 'J96MfNsVaITSgh5R' #'DBWGJkvxK3n8sEIb'
+EMAIL_HOST_USER = ' '  #'write your email here'
+EMAIL_HOST_PASSWORD = ' ' #'password here'
 EMAIL_USE_TLS = True
 
 # EMAIL_FILE_PATH = 'tmp/email_messages'
