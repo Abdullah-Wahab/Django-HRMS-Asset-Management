@@ -1,6 +1,6 @@
-# Django Human Resource Management System #
+# Django HRMS Asset Management #
   
-An **HRMS** which supports two kind of users:  
+An **HRMS-AM** which supports two kind of users:  
     1. **Employer**  
     2. **Employee**  
 An Employer Creates an account and specifies his company name, role/position  
@@ -11,6 +11,3 @@ which employee.
 Employees can edit their profiles but never their role/position.  
 Employers will get **realtime notifications** on the activities of their employees  
 while on the system (i.e *logging in, updating/editing profiles and logging out*).  
-  
-
-Try it [djangohrms.herokuapp.com](https://djangohrms.herokuapp.com)
